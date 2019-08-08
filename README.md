@@ -1,8 +1,8 @@
-# Bank Card OCR
+# OCR based on pytorch
 ## Dependencies
-torch
-pillow
-numpy
+- torch
+- pillow
+- numpy
 
 ## Description
 The model I use to recognize characters is based on CNN + RNN + CTC. I'm considering to rewrite this project using C++ if I'm spare.
